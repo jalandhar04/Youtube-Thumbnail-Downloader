@@ -3,7 +3,7 @@
 
 <p>It allows you to simply enter the video URL and get access to a variety of thumbnail options in seconds. Choose from different resolutions like HD, FHD & 4k and download directly to your device. You can download YouTube Shorts Thumbnail as well as you can download YouTube Live Thumbnail also. Even, you can save three screenshots from the video.</p>
 
-**See it live**: [Youtube Thumbnail Downloader](https://jalandharpaswan.com/advanced-youtube-thumbnail-downloader-download-shorts-live-video-thumbnails/ "Download YouTube Thumbnail")
+**See it live**: [Youtube Thumbnail Downloader](https://jalandharpaswan.com/advanced-youtube-thumbnail-downloader/ "Download YouTube Thumbnail")
 
 <p>The live page contains some other elements to make it more user friendly &amp; after the main functionality, some contents are also added to improve the SEO score of the page.</p>
 
